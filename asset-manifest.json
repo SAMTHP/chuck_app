@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SAMTHP/chuck_app.github.io/static/css/main.a5029bbb.css",
+    "main.js": "/SAMTHP/chuck_app.github.io/static/js/main.cc19fca7.js",
+    "static/js/787.485123b9.chunk.js": "/SAMTHP/chuck_app.github.io/static/js/787.485123b9.chunk.js",
+    "static/media/bitmap.png": "/SAMTHP/chuck_app.github.io/static/media/bitmap.869b81b7436dee2a6ab5.png",
+    "index.html": "/SAMTHP/chuck_app.github.io/index.html",
+    "main.a5029bbb.css.map": "/SAMTHP/chuck_app.github.io/static/css/main.a5029bbb.css.map",
+    "main.cc19fca7.js.map": "/SAMTHP/chuck_app.github.io/static/js/main.cc19fca7.js.map",
+    "787.485123b9.chunk.js.map": "/SAMTHP/chuck_app.github.io/static/js/787.485123b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5029bbb.css",
+    "static/js/main.cc19fca7.js"
+  ]
+}
