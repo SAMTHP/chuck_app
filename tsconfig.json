@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        /* Basic options */
+        "target": "esnext",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "allowJs": true,
+        "noEmit": true,
+        "isolatedModules": true,
+    
+        /* Strict type-checking Options */
+        "strict": true,
+    
+        /* Module resolution options */
+        "moduleResolution": "node",
+        "baseUrl": "./",
+    
+        /* Advanced options */
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["js"]
+}
