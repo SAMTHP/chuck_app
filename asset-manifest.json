@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SAMTHP/static/css/main.5794f8ff.css",
-    "main.js": "/SAMTHP/static/js/main.86b3e752.js",
-    "static/js/787.485123b9.chunk.js": "/SAMTHP/static/js/787.485123b9.chunk.js",
-    "static/media/bitmap.png": "/SAMTHP/static/media/bitmap.869b81b7436dee2a6ab5.png",
-    "index.html": "/SAMTHP/index.html",
-    "main.5794f8ff.css.map": "/SAMTHP/static/css/main.5794f8ff.css.map",
-    "main.86b3e752.js.map": "/SAMTHP/static/js/main.86b3e752.js.map",
-    "787.485123b9.chunk.js.map": "/SAMTHP/static/js/787.485123b9.chunk.js.map"
+    "main.css": "/static/css/main.e87c8a9b.css",
+    "main.js": "/static/js/main.bda7aa10.js",
+    "static/js/787.485123b9.chunk.js": "/static/js/787.485123b9.chunk.js",
+    "static/media/bitmap.png": "/static/media/bitmap.869b81b7436dee2a6ab5.png",
+    "index.html": "/index.html",
+    "main.e87c8a9b.css.map": "/static/css/main.e87c8a9b.css.map",
+    "main.bda7aa10.js.map": "/static/js/main.bda7aa10.js.map",
+    "787.485123b9.chunk.js.map": "/static/js/787.485123b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5794f8ff.css",
-    "static/js/main.86b3e752.js"
+    "static/css/main.e87c8a9b.css",
+    "static/js/main.bda7aa10.js"
   ]
 }
