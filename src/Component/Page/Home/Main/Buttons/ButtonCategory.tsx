@@ -66,7 +66,7 @@ const ButtonCategory = ({jokes, bgColor, title} : ButtonCategoryPros) => {
     const dispatch = useAppDispatch();
 
 	return (
-		<button 
+		<button className="btn-category"
             style={{backgroundColor: bgColor}}
             onClick={() => {
                 dispatch(onCategoryChange(title))
